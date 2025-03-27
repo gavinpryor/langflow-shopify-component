@@ -3,7 +3,7 @@ import time
 from kbcstorage.client import Client
 import csv
 
-KEBOOLA_TOKEN = "955-148501-yjMeM1ctr0UPt8tatnTdfFjXtNA3ooSsbcnYaOoi"
+KEBOOLA_TOKEN = "your_token"
 BASE_QUEUE_URL = "https://queue.europe-west3.gcp.keboola.com"
 CONFIG_ID = "11232241"
 COMPONENT_ID = "kds-team.ex-shopify"
