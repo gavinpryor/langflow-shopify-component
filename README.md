@@ -1,2 +1,3 @@
-# langflow-shopify-component
-Keboola Shopify data extractor built inside langflow
+# Langflow Shopify Component
+1. Triggers Shopify Component job in Keboola project
+2. Exports resulting data and pulls into Langflow
